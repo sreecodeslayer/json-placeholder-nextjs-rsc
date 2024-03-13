@@ -1,3 +1,4 @@
-export default function Loading () {
+import "server-only";
+export default function Loading() {
   return <>Loading details ... </>;
 }
