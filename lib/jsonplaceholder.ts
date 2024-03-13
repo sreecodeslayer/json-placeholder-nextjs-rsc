@@ -1,4 +1,4 @@
-const base = process.env.API_URL
+const base = "https://jsonplaceholder.typicode.com"
 
 export interface PostType {
   id: number
